@@ -1,6 +1,19 @@
-# Desktop_assistance_Kumar
-
 # Desktop-Assistant-using-Python
+Project Steps:
+    Create New Folder
+    Create New Github Repository
+    Clone the repository in thi folder using comand " git clone repo url "
+    open git bash and push the changes into github using below command
+        git add .
+        git commit -m "message"
+        git push origin main
+    open new vs code and select python interpretor
+         got to view -> command palette -> serach python and select python interpretor
+    create new terminal and select command promot and make sure bsae is activated
+    create a virtua environment
+    check if the virtual env is activated or not using command "conda env list"
+    activate new environment using command "conda activate new env"
+
 
 ## How to run:
 
